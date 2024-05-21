@@ -1,15 +1,18 @@
-// Main.cpp
 
 #include "Main.h"
 #include <iostream> // for cout
-//bajojajo
+//bajo
 // Implementation of search function
+#include <iostream>
+
 void Main::search() {
     std::cout << "Searching...\n";
 }
 
-// Implementation of showPopulationChanges function
 void Main::showPopulationChanges() {
-    std::cout << "Displaying population changes...\n";
+    while (true) {
+        std::cout << "Choose an option\n";
+        std::cout << "1. Add observation\n";
+    }
 }
 
