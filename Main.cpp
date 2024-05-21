@@ -1,9 +1,6 @@
 
 #include "Main.h"
-#include <iostream> // for cout
-//bajo to jest nowe
-// Implementation of search function
-#include <iostream>
+#include <iostream> 
 
 void Main::search() {
     std::cout << "Searching...\n";
