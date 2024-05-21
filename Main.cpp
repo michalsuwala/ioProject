@@ -1,7 +1,7 @@
 
 #include "Main.h"
 #include <iostream> // for cout
-//bajo
+//bajo to jest nowe
 // Implementation of search function
 #include <iostream>
 
